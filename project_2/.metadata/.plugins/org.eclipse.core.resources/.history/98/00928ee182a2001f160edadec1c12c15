@@ -1,0 +1,8 @@
+package com.javeweb.repository.impl;
+
+import com.javeweb.repository.RentAreaRepository;
+
+public class RentAreaRepository implements RentAreaRepository {
+	
+
+}
